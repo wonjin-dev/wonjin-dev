@@ -1,5 +1,5 @@
 ## ***👐🏻 Introduction***
-I'm burning all my passion at all times to be a better developer than yesterday. 🔥
+I'm always burning my passion to become a better developer 🔥
 <br>
 <br>
 
@@ -7,9 +7,6 @@ I'm burning all my passion at all times to be a better developer than yesterday.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏢 I work for CloudN
 >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021.04 ~ 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🏃 I participated in WeHack, Open source Hackathon
->&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021.07 ~ 2021.10
 
 <br>
 
