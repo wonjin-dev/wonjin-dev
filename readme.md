@@ -1,2 +1,2 @@
-## ***👐🏻 Hi, there!***
-> Thanks to visit my Github
+## ***Hi, there!***
+_Thanks to visit my Github_
