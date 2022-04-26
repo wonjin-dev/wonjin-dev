@@ -5,7 +5,7 @@
 ```
 const WONJIN = {
 
-  introduce: 'Web & Mobile-App FrontEnd Developer using JavaSript Frameworks with TypeScript',
+  introduce: 'Web & Mobile FrontEnd Developer using JavaSript Frameworks with TypeScript',
   
   interests: {
     tools: [TypeScript, Next.JS, React, React-Native, GraphQL, Jest, AWS],
@@ -15,18 +15,18 @@ const WONJIN = {
   careers: [
     
     CloudN: {
-      role: Fullstack Developer,
+      role: 'Fullstack Developer',
       periodOfEmployment: '2021-04 ~ 2022-03',
       task: {
-        eBEMS: Dashboard for managing E-mart energy on Web
+        'eBEMS': 'Dashboard for managing E-mart energy on Web'
       }
     },
     
     Tingoland: {
-      role: FrontEnd Developer,
+      role: 'FrontEnd Developer',
       periodOfEmployment: '2022-04 ~ ',
       task: {
-        Thinggo: Mobile-app of companies own solution
+        'Thinggo': 'Mobile-App of companies own solution'
       }
     }
     
