@@ -1,12 +1,11 @@
-# Hi, there
+# Hi, there !
 **Welcome to my Github !**
 ```
+import {GoodDeveloper} from 'Wannabe';
+
 const WONJIN = {
-  introduce: 'Web & Mobile FrontEnd Developer using JavaSript Frameworks with TypeScript',
-  interests: {
-    tools: [TypeScript, Next.JS, React, React-Native, GraphQL, Jest, AWS],
-    themes: [SSR, Deploying-serverless, Automated-testing]
-  },
+  introduce: 'Web & Mobile FrontEnd Developer using JS-Frameworks with TypeScript',
+  tools: [TypeScript, Next.JS, React, React-Native, GraphQL, Jest, AWS],
   careers: [
     CloudN: {
       role: 'Fullstack Developer',
