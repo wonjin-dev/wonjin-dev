@@ -4,7 +4,7 @@
 import {GoodDeveloper} from 'Wannabe';
 
 const WONJIN = {
-  introduce: 'Web & Mobile FrontEnd Developer using JS-Frameworks with TypeScript',
+  introduce: 'FrontEnd Developer, likes "We" better than "You" or "I"',
   interests: [TypeScript, Next.JS, React, React-Native, GraphQL, Jest, AWS]
 };
 
