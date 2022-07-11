@@ -5,7 +5,7 @@ import {GoodDeveloper} from 'Wannabe';
 
 const WONJIN = {
   introduce: 'FrontEnd Developer, likes "We" better than "You" or "I"',
-  interests: [TypeScript, Next.JS, React, React-Native, GraphQL, Jest, AWS]
+  interests: [TypeScript, Next, React, React-Native, GraphQL, Jest, AWS]
 };
 
 expect(WONJIN).toMatchObject(GoodDeveloper);
